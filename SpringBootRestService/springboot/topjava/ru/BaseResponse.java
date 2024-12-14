@@ -9,7 +9,7 @@ public class BaseResponse {
         this.status = status;
         this.code = code;
     }
-
+//sefsefsefsef
     public String getStatus() {
         return status;
     }
